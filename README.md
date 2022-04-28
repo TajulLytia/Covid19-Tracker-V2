@@ -24,7 +24,7 @@ To setup the app for development on your local machine, please follow the instru
 1. Clone the repo to your machine
 
    ```bash
-   git clone https://github.com/sabesansathananthan/covid-19-tracker.git
+   git clone https://github.com/TajulLytia/Covid19-Tracker-V2.git
    cd covid-19-tracker
    ```
 
@@ -62,7 +62,7 @@ To setup the app for development on your local machine, please follow the instru
 
 4. Visit <http://localhost:3000>
 
-## [Live Demo](https://world19covid.web.app/)
+## [Live Demo](https://designcaptured.com/)
 
 <a href= "https://world19covid.web.app/">
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=plastic&logo=firebase"/></a> <a href= "https://covid19.mathdro.id/api/">
